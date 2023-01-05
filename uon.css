@@ -1,0 +1,126 @@
+﻿body
+{ margin-left:30px;
+  font-family:sans-serif;
+ }
+img{
+    height:70px;
+    width:70px;
+    float:left;
+    background-size:cover;
+    margin-bottom:5px;
+}
+header p{
+    font-size:11px;
+}
+header p span{
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: initial;
+}
+ul {
+    clear: both;margin-bottom:0px; width:90%;
+}
+    ul li {
+        display: inline-flex;
+        list-style: none;
+        text-decoration: none;
+        text-transform: capitalize;
+        width: 150px;
+        text-align: center;
+        
+    }
+        ul li a {
+            background-color: #9a9494;
+            text-decoration: none;
+            color: #fff;
+            text-transform: capitalize;
+            width: 155px;
+            padding: 5px;
+            margin-bottom: 1px;
+            white-space:nowrap;
+        }
+#uo {
+    padding: 5px;
+    background-color: #0c8799;
+    text-align: center;
+    white-space: pre;
+    margin-bottom: 0px;
+}
+#ou {
+    padding: 5px;
+    background-color: #0c8799;
+    text-align: center;
+    white-space: pre;
+    margin-bottom: 0px;
+    margin-left: -40px;
+}
+#ou1  {
+    margin-left: -40px;
+    }
+#portal {
+    display: inline-flex;
+    background-color: #0c8799;
+    padding: 5px;
+    margin-top: 0px;
+    position: relative;
+    list-style:initial;
+    text-decoration:initial;
+}/******end of header******/
+ #cap{
+     text-transform:uppercase;
+ }
+#capp{
+     font-weight:700;
+     text-transform:uppercase;
+ }
+#r {
+    text-transform:capitalize;
+    color:#ff0000;
+}
+#lef{
+    float:right;
+    font-size:11px;
+}
+#g {
+    color:#177e24;
+    text-transform: uppercase;
+}/************fees***************/
+table{
+    border-collapse:collapse;
+}
+#ui{
+    font-weight:100;
+    text-align:initial;
+    white-space:pre-wrap;
+    text-transform:initial;
+}
+#ui span{
+    font-weight:700;
+    
+}
+#SP{
+    width:600px;
+}
+#rt{
+    text-transform:uppercase;
+    font-weight:600;
+    text-align:center;
+}
+#er{
+    text-align:center;
+    font-weight:600;
+}/************time table***************/
+ div{
+     text-align:center;
+ }
+ table{
+     margin:auto;
+ }
+ #tt{
+     text-align:center;
+ }
+ table th{
+     font-weight:initial;
+     text-align:initial;
+ }
+
